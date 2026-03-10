@@ -1,7 +1,7 @@
 # Hi, I'm Jyostna Mayee Sahu
 * Front-End Developer* — Figma(UI/UX) • SQL 
 
-🔭 Current project: QR Attendeance Application (Xml + Java)
+🔭 Current project: * QR Attendeance Application *(Xml + Java)
 
 ✅ I write tests with pytest and use GitHub Actions (CI)
 🌱 Learning:Android studio, Full Stack,ReactJS
